@@ -6,7 +6,7 @@ namespace ConsoleApp4GitTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Niels!");
+            Console.WriteLine("Hello Niels!- this is a new branch");
             Console.ReadLine();
         }
     }
